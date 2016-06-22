@@ -1,0 +1,41 @@
+h1 {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 40px;
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+form {
+    border: solid grey 1.5px;
+    border-radius: 6px;
+    display: inline-block;
+}
+
+input {
+    border: none;
+    border-radius: 6px;
+    height: 25px;
+    width: 40px;
+    font-family: sans-serif;
+    font-weight: none;
+    font-size: 14px;
+}
+
+button {
+    background-color: skyblue;
+    border: none;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 0px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    width:auto;
+    height:auto;
+}
